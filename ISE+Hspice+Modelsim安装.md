@@ -1,6 +1,11 @@
 # ISE+Hspice+Modelsim安装
 
 ## 安装ISE
+
+链接：https://pan.baidu.com/s/1lfuSPvVB3TT4FTsrrNqo3w 
+提取码：xt3w 
+--来自百度网盘超级会员V4的分享
+
 \Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)  setup
 
 生成代码：在\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)\crack中打开keymaker
@@ -10,6 +15,10 @@
 
 
 ## 安装 Hspice
+
+链接：https://pan.baidu.com/s/1OLmXOHg-OypL7oirNqgUPQ 
+提取码：coan 
+--来自百度网盘超级会员V4的分享
 
 \Hspice\Hspice 2009.09\hspice_vC-2009.09_Win_setup
 
