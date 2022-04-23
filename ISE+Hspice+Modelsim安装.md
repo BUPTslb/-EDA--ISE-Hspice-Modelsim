@@ -1,10 +1,9 @@
 # ISE+Hspice+Modelsim安装
 
 ## 安装ISE
+\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)  setup
 
-D:\xilinx ise 9.1i\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)  setup
-
-生成代码：在D:\xilinx ise 9.1i\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)\crack中打开keymaker
+生成代码：在\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)\crack中打开keymaker
 
 生成ISE V9i foundation edition的代码
 
@@ -16,7 +15,7 @@ D:\xilinx ise 9.1i\Xilinx.ISE.v9.1i.DVD-ZWT(ED2000.COM)(1)  setup
 
 \Hspice\Hspice 2009.09\sx_C-2009_09_windows
 
-参考：D:\Hspice\Hspice 2009.09\crack
+参考：\Hspice\Hspice 2009.09\crack
 
 
 
