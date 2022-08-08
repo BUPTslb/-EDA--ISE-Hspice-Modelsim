@@ -12,6 +12,9 @@
 
 生成ISE V9i foundation edition的代码
 
+ISE是赛灵思的开发套件，可以理解为写HDL语言做项目的工具，功能与Vivado类似，但速度更快，相对更加简洁，最终更新到14.7版本
+上手参考链接：
+https://blog.csdn.net/su1041168096/article/details/81449564
 
 
 ## 安装 Hspice
@@ -26,6 +29,7 @@
 
 参考：\Hspice\Hspice 2009.09\crack
 
+Hspice是进行电路级仿真模拟的工具，使用spice语言，构建电路网表，设定的参数较为精确，包含栅极宽度、脉冲时间参数等。
 
 
 ## 安装modelsim
